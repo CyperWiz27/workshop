@@ -11,7 +11,7 @@ A branch in Git is simply a lightweight movable pointer to one of these commits.
 > branch. The only reason nearly every repository has one is that the git init
    ommand creates it by default and most people don’t bother to change it
 
-![[branch-and-commit-history.png.png]]
+![branch-and-commit-history](attachments/branch-and-commit-history.png.png)
 
 
 ---
@@ -26,7 +26,7 @@ git branch testing
 After above command git now has made a new pointer for us to to use and move around.
 
 
-![[new-branch-pointer.png]]
+![](attachments/new-branch-pointer.png)
 
 
 >[!faq]- How does Git know what branch you’re currently on?

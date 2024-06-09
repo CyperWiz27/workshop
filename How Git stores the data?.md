@@ -23,9 +23,9 @@ git commit -m "Web Project kr rha initalize"
 
 ##### What happens behind the scenes ? 
 
-![Git commit and its Tree](gittreeandimage.png)
+![Git commit and its Tree](attachments/gittreeandimage.png)
 
 If you make some changes and commit again, the next commit stores a pointer to the commit that came immediately before it.
 
-![[Git commits and its parents.png]]
+![Git commits and parents](attachments/Git%20commits%20and%20its%20parents.png)
 
